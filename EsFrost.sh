@@ -1,4 +1,6 @@
-//coding asli by EsFrost Kuroneko4
+#coding asli by EsFrost Kuroneko4
+#Project Program
+#CopyRight 2019 By Kuroneko4
 
 clear
 toilet -f slant --gay "EsFrost"
