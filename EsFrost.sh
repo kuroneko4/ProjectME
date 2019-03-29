@@ -9,12 +9,21 @@ echo "\033[32;1m ================================================"
 sleep 1
 echo " "
 echo "\033[36;1m Program By EsFrost Kuroneko4"
-sleep 1
 echo "\033[36;1m Author : Aldo Briansyah"
-echo "\033[36;1m Auto Run Python2
+echo "\033[36;1m Auto Run Python2"
 echo " "
 sleep 1
 echo "\033[32;1m ================================================"
 sleep 1
+echo "\033[33;1m1 Run Python2"
+echo "\033[33;1m2 Cek Color"
+echo "\033[33;1m3 Keluar dulu"
+read esfrost
+
+if [ $esfrost = 1 ] || [ $esfrost = 1 ]
+then
 
 python2
+
+fi
+
