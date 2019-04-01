@@ -55,7 +55,10 @@ echo " "
 echo "Tutorial"
 echo "Cek ping (website)"
 echo "python hammer.py -s (Alamat Ip) -p 80 -t 135"
-echo "-s ( Server Ip ), -h ( Bantuan ), -p ( Port ),  -t ( Turbo )"
+echo "-s ( Server Ip )"
+echo "-h ( Bantuan )"
+echo "-p ( Port )"
+echo "-t ( Turbo )"
 sleep 3
 cd $HOME/hammer/
 
