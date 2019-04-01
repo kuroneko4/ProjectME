@@ -10,7 +10,7 @@ sleep 1
 echo " "
 echo "\033[36;1m Program By EsFrost Kuroneko4"
 echo "\033[36;1m Author : Aldo Briansyah"
-echo "\033[36;1m Auto Run ALL PROGRAM"
+echo "\033[36;1m Auto Run All Tools"
 echo " "
 sleep 1
 echo "\033[32;1m ================================================"
@@ -77,7 +77,7 @@ fi
 if [ $esfrost = 0 ] || [ $esfrost = 0 ]
 then
 
-echo "Thanks sudah menggunakan Tools Saya Mblo :)"
+echo "Thanks sudah menggunakan ini Mblo :)"
 sleep 1
 echo " sampai jumpa lagi . . . "
 sleep 5
