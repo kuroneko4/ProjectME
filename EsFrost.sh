@@ -10,15 +10,17 @@ sleep 1
 echo " "
 echo "\033[36;1m Program By EsFrost Kuroneko4"
 echo "\033[36;1m Author : Aldo Briansyah"
-echo "\033[36;1m Auto Run Python2"
+echo "\033[36;1m Auto Run ALL PROGRAM"
 echo " "
 sleep 1
 echo "\033[32;1m ================================================"
 sleep 1
 echo " "
 echo "\033[33;1m1 Run Python2"
-echo "\033[33;1m2 Cek Color"
-echo "\033[33;1m3 Keluar dulu"
+echo "\033[33;1m2 SPAM SMS"
+echo "\033[33;1m3 DDoS ATK"
+echo "\033[33;1m4 Cek Color"
+echo "\033[33;1m0 Keluar dulu"
 echo " "
 sleep 1
 echo "\033[32;1m ================================================"
@@ -35,6 +37,33 @@ fi
 if [ $esfrost = 2 ] || [ $esfrost = 2 ]
 then
 clear
+toilet -f slant --gay "SPAMMER"
+echo " "
+echo "SPAM SMS ALL IN ONE"
+sleep 4
+clear
+cd $HOME/ALLSPAM/
+sh ALLSPAM.sh
+
+fi
+
+if [ $esfrost = 3 ] || [ $esfrost = 3 ]
+then
+clear
+toilet -f slant --gay "DDOS"
+echo " "
+echo "Tutorial"
+echo "Cek ping (website)"
+echo "python hammer.py -s (Alamat Ip) -p 80 -t 135"
+echo "-s ( Server Ip ), -h ( Bantuan ), -p ( Port ),  -t ( Turbo )"
+sleep 3
+cd $HOME/hammer/
+
+fi
+
+if [ $esfrost = 4 ] || [ $esfrost = 4 ]
+then
+clear
 toilet -f slant --gay "ZONK"
 echo " "
 echo "Masih dalam pengembangan mblo :V"
@@ -42,7 +71,7 @@ sleep 1
 
 fi
 
-if [ $esfrost = 3 ] || [ $esfrost = 3 ]
+if [ $esfrost = 0 ] || [ $esfrost = 0 ]
 then
 
 echo "Thanks sudah menggunakan Tools Saya Mblo :)"
