@@ -17,9 +17,11 @@ echo "\033[32;1m ================================================"
 sleep 1
 echo " "
 echo "\033[33;1m1 Run Python2"
-echo "\033[33;1m2 SPAM SMS"
-echo "\033[33;1m3 DDoS ATK"
-echo "\033[33;1m4 Cek Color"
+echo "\033[33;1m2 SPAM SMS By LITESPAM"
+echo "\033[33;1m3 DDoS ATK By Hammer"
+echo "\033[33;1m4 Attack FB By BRUTEFORCEnew"
+echo "\033[33;1m5 Attack FB By MBF"
+echo "\033[33;1m6 Cek Color"
 echo "\033[33;1m0 Keluar dulu"
 echo " "
 sleep 1
@@ -64,7 +66,7 @@ cd $HOME/hammer/
 
 fi
 
-if [ $esfrost = 4 ] || [ $esfrost = 4 ]
+if [ $esfrost = 6 ] || [ $esfrost = 6 ]
 then
 clear
 toilet -f slant --gay "ZONK"
